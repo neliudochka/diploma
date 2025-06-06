@@ -1,0 +1,8 @@
+mdd: null
+src: "files_for_test/20250325/20250325_121959_MD-R3_#0055_RF.csv"
+delimiter: ";"
+output: null
+systeminfo_filepath: "files_for_test/SystemInfo_#0254.txt"
+datetime: null  # format "YYYYMMDD_HHMMSS.S"
+gnss: "files_for_test/20250325/rtk.csv"
+
